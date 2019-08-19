@@ -3,17 +3,18 @@
 Adoption helps you find the food that you can make !
 With what you have ! 
 
-## The app contain 3 main screens
+## The app contains 3 main screens
 
 Main Screen : 
-### this is where you find more then 500 recipes
+### this is where you find more then 500 recipes that you can scroll for
 
 ![](https://files.fm/thumb_show.php?i=xtcvs5q5)
 
 
 Ingredients Screen
 
-### here you have a selection of 35 ingredients to choose from. click on 'Done' and you'll get the meals that match ! 
+### here you have a selection of 35 different ingredients to choose from
+click on 'Done' and you'll get the meals that match ! 
 
 ![alt text](https://files.fm/thumb_show.php?i=uwzp26xp)
 
@@ -26,7 +27,9 @@ Best Screen:
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+this is my first full stack project, 
+I build the back end with javaScript & node.js. 
+Front with Xcode 9 - fron 0 to apple app store
 
 ## Built With 
 
