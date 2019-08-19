@@ -33,12 +33,3 @@ Add additional notes about how to deploy this on a live system
 * FireBase - Auth, Core - users DB,
 * Heroku node.js server side ([code here](https://github.com/KeyMaker25/FoodSearch-ServerSide))
 * SnapKit - for UI flex images.
-
-
-
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
