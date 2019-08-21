@@ -1,6 +1,6 @@
 # Food-Search - IOS APP
 
-Adoption helps you find the food that you can make !
+Food-Search helps you find the food that you can make !
 With what you have ! 
 
 ## The app contains 3 main screens
@@ -26,10 +26,8 @@ Best Screen:
 
 
 ## Deployment
-
-this is my first full stack project, 
-I build the back end with javaScript & node.js. 
-Front with Xcode 9 - fron 0 to apple app store
+node.js - javaScript & SQL 
+Xcode 9 - swift
 
 ## Built With 
 
